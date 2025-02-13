@@ -1,5 +1,5 @@
 # This file has a list of libraries that are required to run the code in the repository.
-# To install them, run: pip install -r requirements.txt
+# command: python3 -m pip install -r requirements.txt
 
 # Data processing
 pandas
